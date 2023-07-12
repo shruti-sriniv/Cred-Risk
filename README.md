@@ -1,1 +1,1 @@
-# Cred-Risk
+# Credit-Risk
